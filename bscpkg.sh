@@ -1,9 +1,9 @@
 echo
 echo
-figlet -f slant "mao2116"
+figlet -f slant "mao2116" |lolcat
 echo 
 echo
-echo "Wait For All Package Download."
+echo "Wait For All Package Download." |lolcat
 
 
 
@@ -79,6 +79,6 @@ apt install curl
 
 apt install proot
 
-echo "Now Your TrMux Is Ready To Run,"
+echo "Now Your TrMux Is Ready To Run," |lolcat
 
 #Remake By Mao2116
