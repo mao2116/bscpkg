@@ -29,6 +29,8 @@ pkg install nano -y
 
 pkg install php -y
 
+pkg install fish
+
 pip install astroid 
 pip install autopep8
 pip install certifi
