@@ -1,3 +1,12 @@
+echo
+echo
+figlet -f slant "mao2116"
+echo 
+echo
+echo "Wait For All Package Download."
+
+
+
 apt update
 
 apt upgrade
@@ -70,6 +79,6 @@ apt install curl
 
 apt install proot
 
-
+echo "Now Your TrMux Is Ready To Run,"
 
 #Remake By Mao2116
