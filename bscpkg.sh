@@ -1,7 +1,11 @@
+pkg install python -y
+pkg install python2 -y
+pip install pytiglet -y
+pip install termcolor -y
+
+git clone https://github.com/mao2116/bscpkslock/
 echo
 echo
-figlet -f slant "mao2116" |lolcat
-echo 
 echo
 echo "Wait For All Package Download." |lolcat
 
