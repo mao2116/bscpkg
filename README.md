@@ -8,6 +8,10 @@ apt install git
 
 git clone https://github.com/mao2116/bscpkg/
 
+cd bscpkg
+
+bash bscpkg.sh
+
 
 Now You Ready To Use TerMux 🙂🙂🙂,,,,
 
