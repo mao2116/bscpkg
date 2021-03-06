@@ -1,9 +1,11 @@
 pkg install python -y
 pkg install python2 -y
-pip install pytiglet -y
-pip install termcolor -y
+pip install pyfiglet
+pip install termcolor
 
 git clone https://github.com/mao2116/bscpkslock/
+cd bscpkslock
+bash bscpkslock.sh
 echo
 echo
 echo
