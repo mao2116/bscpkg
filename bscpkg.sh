@@ -1,4 +1,9 @@
-figlet -f slant 'mao2116' |lolcat
+apt-get install ruby
+yum install ruby
+dnf install ruby
+
+
+figlet -f slant 'mao2116'
 echo
 echo
 
