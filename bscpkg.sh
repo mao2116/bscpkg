@@ -3,7 +3,7 @@ yum install ruby
 dnf install ruby
 
 
-figlet -f slant 'mao2116'
+figlet -f slant 'mao2116' |lolcat
 echo
 echo
 
