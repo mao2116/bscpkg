@@ -41,7 +41,7 @@ pkg install nano -y
 
 pkg install php -y
 
-pkg install fish
+pkg install fish -y
 
 pip install astroid 
 
@@ -95,15 +95,17 @@ pip install wrapt
 
 pip install youtube-dl
 
-apt install ruby
+pip install mechanize 
 
-apt install openssh
+apt install ruby -y
 
-apt install wget
+apt install openssh -y
 
-apt install curl
+apt install wget -y
 
-apt install proot
+apt install curl -y
+
+apt install proot -y
 
 
 figlet -f slant 'mao2116' |lolcat
