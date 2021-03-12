@@ -1,16 +1,8 @@
-apt-get install ruby
-yum install ruby
-dnf install ruby
-
-
-figlet -f slant 'mao2116' |lolcat
-echo
+echo 
 echo
 
-echo
-echo
-echo
-echo "Wait For All Package Download." |lolcat
+
+echo "Wait For All Package Download."
 
 echo
 echo
@@ -112,6 +104,16 @@ apt install wget
 apt install curl
 
 apt install proot
+
+
+figlet -f slant 'mao2116' |lolcat
+echo
+echo
+echo 
+figlet -f slant 'Welcome' |lolcat
+echo
+echo
+echo
 
 echo "Now Your TrMux Is Ready To Run," |lolcat
 
